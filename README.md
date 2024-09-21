@@ -56,6 +56,7 @@
 ## Data Engineering
 
 - [Redpanda Connect](https://docs.redpanda.com/redpanda-connect)
+- [DuckDB](https://duckdb.org/)
 
 ## Messaging
 
