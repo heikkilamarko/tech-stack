@@ -53,10 +53,16 @@
 
 - [TimescaleDB](https://www.timescale.com/)
 
+### Analytics
+
+- [DuckDB](https://duckdb.org/)
+
 ## Data Engineering
 
-- [Redpanda Connect](https://docs.redpanda.com/redpanda-connect)
+- [Redpanda Connect](https://www.redpanda.com/connect)
 - [DuckDB](https://duckdb.org/)
+- [Evidence](https://evidence.dev/)
+- [dbt](https://github.com/dbt-labs/dbt-core)
 
 ## Messaging
 
