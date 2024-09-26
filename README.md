@@ -13,6 +13,7 @@
 
 - [Go](https://go.dev/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Python](https://www.python.org/) (for data engineering)
 
 ## Scripting
 
