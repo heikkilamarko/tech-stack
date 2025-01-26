@@ -21,7 +21,7 @@
 
 ## Front-End
 
-- [SvelteKit](https://kit.svelte.dev/)
+- [Svelte](https://svelte.dev/)
 - [htmx](https://htmx.org/)
 
 ## Reverse Proxy
