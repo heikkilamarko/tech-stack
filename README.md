@@ -62,8 +62,9 @@
 
 - [Redpanda Connect](https://www.redpanda.com/connect)
 - [DuckDB](https://duckdb.org/)
-- [Evidence](https://evidence.dev/)
+- [pg_duckdb](https://github.com/duckdb/pg_duckdb)
 - [dbt](https://github.com/dbt-labs/dbt-core)
+- [Evidence](https://evidence.dev/)
 
 ## Messaging
 
@@ -90,6 +91,8 @@
 ## Observability
 
 - [Grafana Stack](https://grafana.com/)
+- [Prometheus](https://prometheus.io/)
+- [OpenTelemetry Collector](https://opentelemetry.io/docs/collector/)
 
 ## Testing
 
