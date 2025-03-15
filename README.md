@@ -103,3 +103,7 @@
 
 - [K3s](https://k3s.io/)
 - [K9s](https://k9scli.io/)
+
+## Infrastructure Automation
+
+- [Terraform](https://www.terraform.io/)
