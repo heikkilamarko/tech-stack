@@ -66,6 +66,10 @@
 - [dbt](https://github.com/dbt-labs/dbt-core)
 - [Evidence](https://evidence.dev/)
 
+## Optimization
+
+- [OR-Tools](https://developers.google.com/optimization)
+
 ## Messaging
 
 - [NATS](https://nats.io/)
