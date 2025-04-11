@@ -96,6 +96,7 @@
 
 - [Grafana Stack](https://grafana.com/)
 - [Prometheus](https://prometheus.io/)
+- [OpenTelemetry](https://opentelemetry.io/)
 - [OpenTelemetry Collector](https://opentelemetry.io/docs/collector/)
 
 ## Testing
