@@ -58,6 +58,10 @@
 
 - [DuckDB](https://duckdb.org/)
 
+## Data Lake and Lakehouse
+
+- [DuckLake](https://ducklake.select/)
+
 ## Data Engineering
 
 - [Redpanda Connect](https://www.redpanda.com/connect)
