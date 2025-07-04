@@ -98,10 +98,10 @@
 
 ## Observability
 
-- [Grafana Stack](https://grafana.com/)
-- [Prometheus](https://prometheus.io/)
 - [OpenTelemetry](https://opentelemetry.io/)
 - [OpenTelemetry Collector](https://opentelemetry.io/docs/collector/)
+- [Prometheus](https://prometheus.io/)
+- [Grafana Stack](https://grafana.com/)
 
 ## Testing
 
@@ -111,6 +111,7 @@
 ## Container Orchestration
 
 - [K3s](https://k3s.io/)
+- [k3d](https://k3d.io/)
 - [K9s](https://k9scli.io/)
 
 ## Infrastructure Automation
