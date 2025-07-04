@@ -117,3 +117,7 @@
 ## Infrastructure Automation
 
 - [Terraform](https://www.terraform.io/)
+
+## GitOps
+
+- [Argo CD](https://argo-cd.readthedocs.io/)
