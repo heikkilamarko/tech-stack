@@ -120,4 +120,5 @@
 
 ## GitOps
 
+- [Flux](https://fluxcd.io/)
 - [Argo CD](https://argo-cd.readthedocs.io/)
