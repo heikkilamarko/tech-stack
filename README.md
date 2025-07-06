@@ -108,17 +108,33 @@
 - [Postman](https://www.postman.com/) + [Newman](https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman/)
 - [k6](https://k6.io/)
 
-## Container Orchestration
+## Kubernetes
+
+[kubernetes.io](https://kubernetes.io/)
+
+### Distributions
 
 - [K3s](https://k3s.io/)
-- [k3d](https://k3d.io/)
+
+### Certificate Management
+
+- [cert-manager](https://cert-manager.io/)
+
+### Serverless
+
+- [KEDA](https://keda.sh/)
+
+### GitOps
+
+- [Flux](https://fluxcd.io/)
+- [Argo CD](https://argo-cd.readthedocs.io/)
+
+### Tools
+
 - [K9s](https://k9scli.io/)
+- [K3d](https://k3d.io/)
+- [kind](https://kind.sigs.k8s.io/)
 
 ## Infrastructure Automation
 
 - [Terraform](https://www.terraform.io/)
-
-## GitOps
-
-- [Flux](https://fluxcd.io/)
-- [Argo CD](https://argo-cd.readthedocs.io/)
