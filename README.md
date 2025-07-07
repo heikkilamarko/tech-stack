@@ -88,10 +88,6 @@
 - [ZITADEL](https://zitadel.com/)
 - [Keycloak](https://www.keycloak.org/)
 
-## Policy Engine
-
-- [Open Policy Agent (OPA)](https://www.openpolicyagent.org/)
-
 ## Secrets Management
 
 - [SOPS](https://getsops.io/)
@@ -110,11 +106,22 @@
 
 ## Kubernetes
 
-[kubernetes.io](https://kubernetes.io/)
-
 ### Distributions
 
 - [K3s](https://k3s.io/)
+
+### GitOps
+
+- [Flux](https://fluxcd.io/)
+- [Argo CD](https://argo-cd.readthedocs.io/)
+
+### Policy Engine
+
+- [Kyverno](https://kyverno.io/)
+
+### Secrets Management
+
+- [Flux + SOPS](https://fluxcd.io/flux/guides/mozilla-sops/)
 
 ### Certificate Management
 
@@ -123,11 +130,6 @@
 ### Serverless
 
 - [KEDA](https://keda.sh/)
-
-### GitOps
-
-- [Flux](https://fluxcd.io/)
-- [Argo CD](https://argo-cd.readthedocs.io/)
 
 ### Tools
 
