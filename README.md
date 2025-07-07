@@ -79,7 +79,7 @@
 - [NATS](https://nats.io/)
 - [Centrifugo](https://centrifugal.dev/)
 
-## Workflows and Durable Execution
+## Durable Execution
 
 - [Temporal](https://temporal.io/)
 
@@ -140,3 +140,7 @@
 ## Infrastructure Automation
 
 - [Terraform](https://www.terraform.io/)
+
+## Security Scanning
+
+- [Trivy](https://trivy.dev/)
